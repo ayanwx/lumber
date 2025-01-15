@@ -1,0 +1,9 @@
+{
+  "name": "lumber",
+  "packageManager": "yarn@4.6.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
